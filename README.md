@@ -1,4 +1,4 @@
-# Computer-Security
+# Computer Security
 Ethical Hacking, CTF &amp; more
 
 <h1>OpenBugBounty</h1>
